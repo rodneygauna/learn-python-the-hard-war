@@ -19,5 +19,8 @@ Learned about variables and the ability to print the variables
 ## Exercise 5
 
 More printing and variables
+Started using `print(f"some string with a {variable}` which is known as "f-string". It allows the string to format and pull the variable into it.
 
 ## Exercise 6
+
+More printing and strings
